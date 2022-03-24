@@ -7,31 +7,31 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F60DB7BC27E254650035FC6F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F60DB7BB27E254650035FC6F /* AppDelegate.swift */; };
-		F60DB7BE27E254650035FC6F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F60DB7BD27E254650035FC6F /* SceneDelegate.swift */; };
-		F60DB7C027E254650035FC6F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F60DB7BF27E254650035FC6F /* ViewController.swift */; };
-		F60DB7C327E254650035FC6F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F60DB7C127E254650035FC6F /* Main.storyboard */; };
-		F60DB7C527E254670035FC6F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F60DB7C427E254670035FC6F /* Assets.xcassets */; };
-		F60DB7C827E254670035FC6F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F60DB7C627E254670035FC6F /* LaunchScreen.storyboard */; };
-		F60DB7D027E267060035FC6F /* EntryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F60DB7CF27E267060035FC6F /* EntryViewController.swift */; };
-		F60DB7D227E267340035FC6F /* TaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F60DB7D127E267340035FC6F /* TaskViewController.swift */; };
+		F627DB1927ECE8240027E758 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F627DB1827ECE8240027E758 /* AppDelegate.swift */; };
+		F627DB1B27ECE8240027E758 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F627DB1A27ECE8240027E758 /* SceneDelegate.swift */; };
+		F627DB1D27ECE8240027E758 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F627DB1C27ECE8240027E758 /* ViewController.swift */; };
+		F627DB2027ECE8250027E758 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F627DB1E27ECE8250027E758 /* Main.storyboard */; };
+		F627DB2227ECE8270027E758 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F627DB2127ECE8270027E758 /* Assets.xcassets */; };
+		F627DB2527ECE8270027E758 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F627DB2327ECE8270027E758 /* LaunchScreen.storyboard */; };
+		F627DB3027ECF1430027E758 /* customTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F627DB2E27ECF1430027E758 /* customTableViewCell.swift */; };
+		F627DB3127ECF1430027E758 /* customTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = F627DB2F27ECF1430027E758 /* customTableViewCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		F60DB7B827E254650035FC6F /* toDoList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = toDoList.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		F60DB7BB27E254650035FC6F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		F60DB7BD27E254650035FC6F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		F60DB7BF27E254650035FC6F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		F60DB7C227E254650035FC6F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		F60DB7C427E254670035FC6F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		F60DB7C727E254670035FC6F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		F60DB7C927E254670035FC6F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F60DB7CF27E267060035FC6F /* EntryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntryViewController.swift; sourceTree = "<group>"; };
-		F60DB7D127E267340035FC6F /* TaskViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskViewController.swift; sourceTree = "<group>"; };
+		F627DB1527ECE8240027E758 /* customTableViewCell.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = customTableViewCell.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F627DB1827ECE8240027E758 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		F627DB1A27ECE8240027E758 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		F627DB1C27ECE8240027E758 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		F627DB1F27ECE8250027E758 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		F627DB2127ECE8270027E758 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F627DB2427ECE8270027E758 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		F627DB2627ECE8270027E758 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F627DB2E27ECF1430027E758 /* customTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = customTableViewCell.swift; sourceTree = "<group>"; };
+		F627DB2F27ECF1430027E758 /* customTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = customTableViewCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		F60DB7B527E254650035FC6F /* Frameworks */ = {
+		F627DB1227ECE8240027E758 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -41,74 +41,74 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		F60DB7AF27E254650035FC6F = {
+		F627DB0C27ECE8240027E758 = {
 			isa = PBXGroup;
 			children = (
-				F60DB7BA27E254650035FC6F /* toDoList */,
-				F60DB7B927E254650035FC6F /* Products */,
+				F627DB1727ECE8240027E758 /* customTableViewCell */,
+				F627DB1627ECE8240027E758 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		F60DB7B927E254650035FC6F /* Products */ = {
+		F627DB1627ECE8240027E758 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F60DB7B827E254650035FC6F /* toDoList.app */,
+				F627DB1527ECE8240027E758 /* customTableViewCell.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F60DB7BA27E254650035FC6F /* toDoList */ = {
+		F627DB1727ECE8240027E758 /* customTableViewCell */ = {
 			isa = PBXGroup;
 			children = (
-				F60DB7BB27E254650035FC6F /* AppDelegate.swift */,
-				F60DB7BD27E254650035FC6F /* SceneDelegate.swift */,
-				F60DB7BF27E254650035FC6F /* ViewController.swift */,
-				F60DB7C127E254650035FC6F /* Main.storyboard */,
-				F60DB7C427E254670035FC6F /* Assets.xcassets */,
-				F60DB7C627E254670035FC6F /* LaunchScreen.storyboard */,
-				F60DB7C927E254670035FC6F /* Info.plist */,
-				F60DB7CF27E267060035FC6F /* EntryViewController.swift */,
-				F60DB7D127E267340035FC6F /* TaskViewController.swift */,
+				F627DB1827ECE8240027E758 /* AppDelegate.swift */,
+				F627DB1A27ECE8240027E758 /* SceneDelegate.swift */,
+				F627DB1C27ECE8240027E758 /* ViewController.swift */,
+				F627DB2E27ECF1430027E758 /* customTableViewCell.swift */,
+				F627DB2F27ECF1430027E758 /* customTableViewCell.xib */,
+				F627DB1E27ECE8250027E758 /* Main.storyboard */,
+				F627DB2127ECE8270027E758 /* Assets.xcassets */,
+				F627DB2327ECE8270027E758 /* LaunchScreen.storyboard */,
+				F627DB2627ECE8270027E758 /* Info.plist */,
 			);
-			path = toDoList;
+			path = customTableViewCell;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F60DB7B727E254650035FC6F /* toDoList */ = {
+		F627DB1427ECE8240027E758 /* customTableViewCell */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F60DB7CC27E254670035FC6F /* Build configuration list for PBXNativeTarget "toDoList" */;
+			buildConfigurationList = F627DB2927ECE8270027E758 /* Build configuration list for PBXNativeTarget "customTableViewCell" */;
 			buildPhases = (
-				F60DB7B427E254650035FC6F /* Sources */,
-				F60DB7B527E254650035FC6F /* Frameworks */,
-				F60DB7B627E254650035FC6F /* Resources */,
+				F627DB1127ECE8240027E758 /* Sources */,
+				F627DB1227ECE8240027E758 /* Frameworks */,
+				F627DB1327ECE8240027E758 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = toDoList;
-			productName = toDoList;
-			productReference = F60DB7B827E254650035FC6F /* toDoList.app */;
+			name = customTableViewCell;
+			productName = customTableViewCell;
+			productReference = F627DB1527ECE8240027E758 /* customTableViewCell.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		F60DB7B027E254650035FC6F /* Project object */ = {
+		F627DB0D27ECE8240027E758 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1320;
 				LastUpgradeCheck = 1320;
 				TargetAttributes = {
-					F60DB7B727E254650035FC6F = {
+					F627DB1427ECE8240027E758 = {
 						CreatedOnToolsVersion = 13.2.1;
 					};
 				};
 			};
-			buildConfigurationList = F60DB7B327E254650035FC6F /* Build configuration list for PBXProject "toDoList" */;
+			buildConfigurationList = F627DB1027ECE8240027E758 /* Build configuration list for PBXProject "customTableViewCell" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -116,57 +116,57 @@
 				en,
 				Base,
 			);
-			mainGroup = F60DB7AF27E254650035FC6F;
-			productRefGroup = F60DB7B927E254650035FC6F /* Products */;
+			mainGroup = F627DB0C27ECE8240027E758;
+			productRefGroup = F627DB1627ECE8240027E758 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F60DB7B727E254650035FC6F /* toDoList */,
+				F627DB1427ECE8240027E758 /* customTableViewCell */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		F60DB7B627E254650035FC6F /* Resources */ = {
+		F627DB1327ECE8240027E758 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F60DB7C827E254670035FC6F /* LaunchScreen.storyboard in Resources */,
-				F60DB7C527E254670035FC6F /* Assets.xcassets in Resources */,
-				F60DB7C327E254650035FC6F /* Main.storyboard in Resources */,
+				F627DB2527ECE8270027E758 /* LaunchScreen.storyboard in Resources */,
+				F627DB2227ECE8270027E758 /* Assets.xcassets in Resources */,
+				F627DB3127ECF1430027E758 /* customTableViewCell.xib in Resources */,
+				F627DB2027ECE8250027E758 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		F60DB7B427E254650035FC6F /* Sources */ = {
+		F627DB1127ECE8240027E758 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F60DB7C027E254650035FC6F /* ViewController.swift in Sources */,
-				F60DB7D027E267060035FC6F /* EntryViewController.swift in Sources */,
-				F60DB7D227E267340035FC6F /* TaskViewController.swift in Sources */,
-				F60DB7BC27E254650035FC6F /* AppDelegate.swift in Sources */,
-				F60DB7BE27E254650035FC6F /* SceneDelegate.swift in Sources */,
+				F627DB1D27ECE8240027E758 /* ViewController.swift in Sources */,
+				F627DB1927ECE8240027E758 /* AppDelegate.swift in Sources */,
+				F627DB3027ECF1430027E758 /* customTableViewCell.swift in Sources */,
+				F627DB1B27ECE8240027E758 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		F60DB7C127E254650035FC6F /* Main.storyboard */ = {
+		F627DB1E27ECE8250027E758 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				F60DB7C227E254650035FC6F /* Base */,
+				F627DB1F27ECE8250027E758 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		F60DB7C627E254670035FC6F /* LaunchScreen.storyboard */ = {
+		F627DB2327ECE8270027E758 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				F60DB7C727E254670035FC6F /* Base */,
+				F627DB2427ECE8270027E758 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -174,7 +174,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		F60DB7CA27E254670035FC6F /* Debug */ = {
+		F627DB2727ECE8270027E758 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -235,7 +235,7 @@
 			};
 			name = Debug;
 		};
-		F60DB7CB27E254670035FC6F /* Release */ = {
+		F627DB2827ECE8270027E758 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -290,7 +290,7 @@
 			};
 			name = Release;
 		};
-		F60DB7CD27E254670035FC6F /* Debug */ = {
+		F627DB2A27ECE8270027E758 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -298,7 +298,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = toDoList/Info.plist;
+				INFOPLIST_FILE = customTableViewCell/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -309,15 +309,15 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "personalWebSite-io.github.matheuszanivan.toDoList";
+				PRODUCT_BUNDLE_IDENTIFIER = "personalWebSite-io.github.matheuszanivan.customTableViewCell";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = 1;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		F60DB7CE27E254670035FC6F /* Release */ = {
+		F627DB2B27ECE8270027E758 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -325,7 +325,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = toDoList/Info.plist;
+				INFOPLIST_FILE = customTableViewCell/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -336,36 +336,36 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "personalWebSite-io.github.matheuszanivan.toDoList";
+				PRODUCT_BUNDLE_IDENTIFIER = "personalWebSite-io.github.matheuszanivan.customTableViewCell";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = 1;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F60DB7B327E254650035FC6F /* Build configuration list for PBXProject "toDoList" */ = {
+		F627DB1027ECE8240027E758 /* Build configuration list for PBXProject "customTableViewCell" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F60DB7CA27E254670035FC6F /* Debug */,
-				F60DB7CB27E254670035FC6F /* Release */,
+				F627DB2727ECE8270027E758 /* Debug */,
+				F627DB2827ECE8270027E758 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F60DB7CC27E254670035FC6F /* Build configuration list for PBXNativeTarget "toDoList" */ = {
+		F627DB2927ECE8270027E758 /* Build configuration list for PBXNativeTarget "customTableViewCell" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F60DB7CD27E254670035FC6F /* Debug */,
-				F60DB7CE27E254670035FC6F /* Release */,
+				F627DB2A27ECE8270027E758 /* Debug */,
+				F627DB2B27ECE8270027E758 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = F60DB7B027E254650035FC6F /* Project object */;
+	rootObject = F627DB0D27ECE8240027E758 /* Project object */;
 }
